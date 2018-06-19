@@ -17,9 +17,9 @@ Make this into a repo with a live gh-pages and post a link to it at the top of y
 
 ___
 
-## First Promise: 
+## [First Promise](https://www.google.be/url?sa=t&rct=j&q=&esrc=s&source=video&cd=1&cad=rja&uact=8&ved=0ahUKEwjCirufkZnaAhUMjqQKHQxPDyQQtwIIJzAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D36NgPu9OyRM&usg=AOvVaw0ou3BcQNAflHJjk6fPJw7c): 
 
-[the first promise](https://www.google.be/url?sa=t&rct=j&q=&esrc=s&source=video&cd=1&cad=rja&uact=8&ved=0ahUKEwjCirufkZnaAhUMjqQKHQxPDyQQtwIIJzAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D36NgPu9OyRM&usg=AOvVaw0ou3BcQNAflHJjk6fPJw7c) I promise that to the best of my ability and judgment one I will not produce harmful code.
+I promise that to the best of my ability and judgment one I will not produce harmful code.
 Harmful code is code that is harmful to customers, to your fellow programmers, to the structure of the system.
 
 [TOP](#the-programmers-oath)
