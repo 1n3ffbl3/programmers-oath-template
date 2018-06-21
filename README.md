@@ -56,6 +56,7 @@ ___
 ## [Sixth Promise](https://www.google.be/url?sa=t&rct=j&q=&esrc=s&source=video&cd=7&cad=rja&uact=8&ved=0ahUKEwjCirufkZnaAhUMjqQKHQxPDyQQtwIIOTAG&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWQMku1-fDYo&usg=AOvVaw0gaYBLsB7tkoj5DVLMS-gI):
 
 I will do everything in my power to keep my and others' productivity level high, and never decrease it.
+
 [TOP](#the-programmers-oath)
 
 ___
